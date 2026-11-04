@@ -1,0 +1,428 @@
+{
+ "resumo": {
+  "antonio": {
+   "passam": 7,
+   "total": 13,
+   "f0_medio": 4.87,
+   "escolhidas": {
+    "n10": {
+     "arquivo": "antonio_n10_v0r8.wav",
+     "erro": 0.0,
+     "cps": 17.08,
+     "f0_semitons": 3.46,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Nem o pelé, que tem 77."
+    },
+    "n11": {
+     "arquivo": "antonio_n11_v0r0.wav",
+     "erro": 0.0,
+     "cps": 14.38,
+     "f0_semitons": 5.6,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Nos títulos, tem libertadores, champions, mundial de clubes."
+    },
+    "n12": {
+     "arquivo": "antonio_n12_v0r0.wav",
+     "erro": 0.154,
+     "cps": 15.03,
+     "f0_semitons": 4.9,
+     "pausa_max": 0.96,
+     "ok": false,
+     "transcricao": "E o Eurolímpico de 2016, só faltou a Copa do Mundo."
+    },
+    "n13": {
+     "arquivo": "antonio_n13_v0r0.wav",
+     "erro": 0.111,
+     "cps": 16.44,
+     "f0_semitons": 3.76,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Comenta aí qual é o próximo crack, e segue a futebolização!"
+    },
+    "n1": {
+     "arquivo": "antonio_n1_v0r0.wav",
+     "erro": 0.222,
+     "cps": 19.47,
+     "f0_semitons": 5.69,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Sabe quantos gols o nem Mar já fez na carreira?"
+    },
+    "n2": {
+     "arquivo": "antonio_n2_v0r0.wav",
+     "erro": 0.0,
+     "cps": 14.32,
+     "f0_semitons": 4.51,
+     "pausa_max": 0.91,
+     "ok": true,
+     "transcricao": "Mais de 450, bora contar camisa por camisa."
+    },
+    "n3": {
+     "arquivo": "antonio_n3_v0r0.wav",
+     "erro": 0.0,
+     "cps": 15.49,
+     "f0_semitons": 4.96,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "No Santos, foram mais de 150 em duas passagens."
+    },
+    "n4": {
+     "arquivo": "antonio_n4_v1r0.wav",
+     "erro": 0.0,
+     "cps": 18.2,
+     "f0_semitons": 5.4,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "No Barcelona, 105 gols e a Champions de 2015."
+    },
+    "n5": {
+     "arquivo": "antonio_n5_v0r0.wav",
+     "erro": 0.0,
+     "cps": 18.56,
+     "f0_semitons": 4.41,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "aí o PSG pagou 222 milhões de euros por ele."
+    },
+    "n6": {
+     "arquivo": "antonio_n6_v0r0.wav",
+     "erro": 0.0,
+     "cps": 16.92,
+     "f0_semitons": 5.27,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Até hoje, é a contratação mais cara da história."
+    },
+    "n7": {
+     "arquivo": "antonio_n7_v0r0.wav",
+     "erro": 0.0,
+     "cps": 15.15,
+     "f0_semitons": 5.58,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "em Paris foram 118 gols e cinco títulos franceses."
+    },
+    "n8": {
+     "arquivo": "antonio_n8_v0r0.wav",
+     "erro": 0.182,
+     "cps": 13.19,
+     "f0_semitons": 6.13,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "No All-Out, quase não jogou um gol em sete jogos."
+    },
+    "n9": {
+     "arquivo": "antonio_n9_v0r8.wav",
+     "erro": 0.0,
+     "cps": 11.61,
+     "f0_semitons": 3.68,
+     "pausa_max": 0.88,
+     "ok": true,
+     "transcricao": "e pela seleção, 80 gols, ninguém fez mais nas contas da FIFA."
+    }
+   }
+  }
+ },
+ "todas": {
+  "antonio": {
+   "n10": [
+    {
+     "arquivo": "antonio_n10_v0r0.wav",
+     "erro": 0.143,
+     "cps": 15.85,
+     "f0_semitons": 4.74,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nem o clé, que tem 77."
+    },
+    {
+     "arquivo": "antonio_n10_v0r8.wav",
+     "erro": 0.0,
+     "cps": 17.08,
+     "f0_semitons": 3.46,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Nem o pelé, que tem 77."
+    }
+   ],
+   "n11": [
+    {
+     "arquivo": "antonio_n11_v0r0.wav",
+     "erro": 0.0,
+     "cps": 14.38,
+     "f0_semitons": 5.6,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Nos títulos, tem libertadores, champions, mundial de clubes."
+    },
+    {
+     "arquivo": "antonio_n11_v0r8.wav",
+     "erro": 0.25,
+     "cps": 15.52,
+     "f0_semitons": 5.39,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "nos títulos, temperatadores, champions, mundial de clubes."
+    },
+    {
+     "arquivo": "antonio_n11_v1r0.wav",
+     "erro": 0.25,
+     "cps": 14.65,
+     "f0_semitons": 4.26,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nos títulos, telebertadores, champions, mundial de clubes."
+    },
+    {
+     "arquivo": "antonio_n11_v1r8.wav",
+     "erro": 0.25,
+     "cps": 15.85,
+     "f0_semitons": 5.21,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nos títulos, telebertadores, champions, mundial de clubes."
+    }
+   ],
+   "n12": [
+    {
+     "arquivo": "antonio_n12_v0r0.wav",
+     "erro": 0.154,
+     "cps": 15.03,
+     "f0_semitons": 4.9,
+     "pausa_max": 0.96,
+     "ok": false,
+     "transcricao": "E o Eurolímpico de 2016, só faltou a Copa do Mundo."
+    },
+    {
+     "arquivo": "antonio_n12_v0r8.wav",
+     "erro": 0.154,
+     "cps": 16.24,
+     "f0_semitons": 5.38,
+     "pausa_max": 0.89,
+     "ok": false,
+     "transcricao": "E o Eurolímpico de 2016, só faltou a Copa do Mundo."
+    }
+   ],
+   "n13": [
+    {
+     "arquivo": "antonio_n13_v0r0.wav",
+     "erro": 0.111,
+     "cps": 16.44,
+     "f0_semitons": 3.76,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Comenta aí qual é o próximo crack, e segue a futebolização!"
+    },
+    {
+     "arquivo": "antonio_n13_v0r8.wav",
+     "erro": 0.111,
+     "cps": 17.72,
+     "f0_semitons": 3.22,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Comenta aí qual é o próximo crack, e segue a futebolização!"
+    }
+   ],
+   "n1": [
+    {
+     "arquivo": "antonio_n1_v0r0.wav",
+     "erro": 0.222,
+     "cps": 19.47,
+     "f0_semitons": 5.69,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Sabe quantos gols o nem Mar já fez na carreira?"
+    },
+    {
+     "arquivo": "antonio_n1_v0r8.wav",
+     "erro": 0.444,
+     "cps": 20.98,
+     "f0_semitons": 5.76,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Sabe quantos golso nem Marja fez na carreira?"
+    }
+   ],
+   "n2": [
+    {
+     "arquivo": "antonio_n2_v0r0.wav",
+     "erro": 0.0,
+     "cps": 14.32,
+     "f0_semitons": 4.51,
+     "pausa_max": 0.91,
+     "ok": true,
+     "transcricao": "Mais de 450, bora contar camisa por camisa."
+    },
+    {
+     "arquivo": "antonio_n2_v0r8.wav",
+     "erro": 0.0,
+     "cps": 15.49,
+     "f0_semitons": 3.89,
+     "pausa_max": 0.85,
+     "ok": true,
+     "transcricao": "mais de 450. Bora contar camisa por camisa."
+    }
+   ],
+   "n3": [
+    {
+     "arquivo": "antonio_n3_v0r0.wav",
+     "erro": 0.0,
+     "cps": 15.49,
+     "f0_semitons": 4.96,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "No Santos, foram mais de 150 em duas passagens."
+    },
+    {
+     "arquivo": "antonio_n3_v0r8.wav",
+     "erro": 0.0,
+     "cps": 16.73,
+     "f0_semitons": 4.79,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "No Santos, foram mais de 150 em duas passagens."
+    }
+   ],
+   "n4": [
+    {
+     "arquivo": "antonio_n4_v0r0.wav",
+     "erro": 0.091,
+     "cps": 18.13,
+     "f0_semitons": 4.72,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "No Barcelona, 105 gols, e a campeonha de 2015."
+    },
+    {
+     "arquivo": "antonio_n4_v0r8.wav",
+     "erro": 0.091,
+     "cps": 19.57,
+     "f0_semitons": 5.2,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "No Barcelona, 105 gols e a campeões de 2015."
+    },
+    {
+     "arquivo": "antonio_n4_v1r0.wav",
+     "erro": 0.0,
+     "cps": 18.2,
+     "f0_semitons": 5.4,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "No Barcelona, 105 gols e a Champions de 2015."
+    },
+    {
+     "arquivo": "antonio_n4_v1r8.wav",
+     "erro": 0.0,
+     "cps": 19.64,
+     "f0_semitons": 5.3,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "No Barcelona, 105 gols, e a Champions de 2015."
+    }
+   ],
+   "n5": [
+    {
+     "arquivo": "antonio_n5_v0r0.wav",
+     "erro": 0.0,
+     "cps": 18.56,
+     "f0_semitons": 4.41,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "aí o PSG pagou 222 milhões de euros por ele."
+    },
+    {
+     "arquivo": "antonio_n5_v0r8.wav",
+     "erro": 0.0,
+     "cps": 20.01,
+     "f0_semitons": 3.48,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Aí o PSG pagou 222 milhões de euros por ele."
+    }
+   ],
+   "n6": [
+    {
+     "arquivo": "antonio_n6_v0r0.wav",
+     "erro": 0.0,
+     "cps": 16.92,
+     "f0_semitons": 5.27,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Até hoje, é a contratação mais cara da história."
+    },
+    {
+     "arquivo": "antonio_n6_v0r8.wav",
+     "erro": 0.0,
+     "cps": 18.38,
+     "f0_semitons": 5.49,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Até hoje, é a contratação mais cara da história."
+    }
+   ],
+   "n7": [
+    {
+     "arquivo": "antonio_n7_v0r0.wav",
+     "erro": 0.0,
+     "cps": 15.15,
+     "f0_semitons": 5.58,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "em Paris foram 118 gols e cinco títulos franceses."
+    },
+    {
+     "arquivo": "antonio_n7_v0r8.wav",
+     "erro": 0.0,
+     "cps": 16.35,
+     "f0_semitons": 5.33,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "em Paris foram 118 gols e 5 títulos franceses."
+    }
+   ],
+   "n8": [
+    {
+     "arquivo": "antonio_n8_v0r0.wav",
+     "erro": 0.182,
+     "cps": 13.19,
+     "f0_semitons": 6.13,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "No All-Out, quase não jogou um gol em sete jogos."
+    },
+    {
+     "arquivo": "antonio_n8_v0r8.wav",
+     "erro": 0.182,
+     "cps": 14.27,
+     "f0_semitons": 4.44,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "No All-Out, quase não jogou um gol em sete jogos."
+    }
+   ],
+   "n9": [
+    {
+     "arquivo": "antonio_n9_v0r0.wav",
+     "erro": 0.0,
+     "cps": 10.75,
+     "f0_semitons": 6.7,
+     "pausa_max": 0.95,
+     "ok": false,
+     "transcricao": "e pela seleção, 80 gols, ninguém fez mais nas contas da FIFA."
+    },
+    {
+     "arquivo": "antonio_n9_v0r8.wav",
+     "erro": 0.0,
+     "cps": 11.61,
+     "f0_semitons": 3.68,
+     "pausa_max": 0.88,
+     "ok": true,
+     "transcricao": "e pela seleção, 80 gols, ninguém fez mais nas contas da FIFA."
+    }
+   ]
+  }
+ }
+}
