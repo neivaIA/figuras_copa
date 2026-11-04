@@ -1,0 +1,19 @@
+name: voz-neymar2 (temporario)
+on: { push: { branches: [voz2-neymar] } }
+permissions: { contents: write }
+jobs:
+  voz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get install -y -q ffmpeg && pip install -q edge-tts faster-whisper librosa num2words soundfile
+      - working-directory: video-neymar
+        run: python edge.py && python gerar_e_selecionar.py select
+      - working-directory: video-neymar/tomadas
+        run: |
+          git init -q -b midia2-neymar && git add -A
+          git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -qm voz
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" midia2-neymar
