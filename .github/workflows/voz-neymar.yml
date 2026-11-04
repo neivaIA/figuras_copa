@@ -4,44 +4,15 @@ on:
     branches: [voz-neymar]
 permissions:
   contents: write
+  actions: read
 jobs:
-  gerar:
-    runs-on: ubuntu-latest
-    timeout-minutes: 40
-    strategy:
-      matrix:
-        eng: ["kokoro", "cb:11", "cb:22", "cb:33"]
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
-      - run: sudo apt-get install -y -q espeak-ng
-      - name: instalar
-        run: |
-          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
-          if [ "${{ matrix.eng }}" = "kokoro" ]; then pip install -q "kokoro>=0.9.4" soundfile; else pip install -q chatterbox-tts; fi
-      - name: gerar
-        working-directory: video-neymar
-        run: python gerar_e_selecionar.py "${{ matrix.eng }}"
-      - uses: actions/upload-artifact@v4
-        with: { name: "tomadas-${{ strategy.job-index }}", path: video-neymar/tomadas }
-  selecionar:
-    needs: gerar
+  copiar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with: { python-version: "3.11" }
-      - run: sudo apt-get install -y -q ffmpeg
-      - run: pip install -q faster-whisper librosa num2words soundfile
       - uses: actions/download-artifact@v4
-        with: { pattern: "tomadas-*", path: video-neymar/tomadas, merge-multiple: true }
-      - name: selecao
-        working-directory: video-neymar
-        run: python gerar_e_selecionar.py select
-      - name: publicar midia
-        working-directory: video-neymar/midia
+        with: { pattern: "tomadas-*", path: tomadas, merge-multiple: true, run-id: 41911345743, github-token: "${{ github.token }}" }
+      - working-directory: tomadas
         run: |
-          git init -q -b midia-neymar && git add -A
-          git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -qm "voz neymar"
-          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" midia-neymar
+          git init -q -b tomadas-neymar && git add -A
+          git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -qm "tomadas"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" tomadas-neymar
