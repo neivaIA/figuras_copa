@@ -1,0 +1,41 @@
+name: voz-neymar (temporario)
+on:
+  push:
+    branches: [voz-neymar]
+permissions:
+  contents: write
+jobs:
+  voz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get update -q && sudo apt-get install -y -q espeak-ng ffmpeg
+      - name: venv kokoro + selecao
+        run: |
+          python -m venv /tmp/ko && . /tmp/ko/bin/activate
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q "kokoro>=0.9.4" soundfile faster-whisper librosa num2words
+      - name: kokoro
+        working-directory: video-neymar
+        run: /tmp/ko/bin/python gerar_e_selecionar.py kokoro
+      - name: chatterbox
+        continue-on-error: true
+        timeout-minutes: 45
+        working-directory: video-neymar
+        run: |
+          python -m venv /tmp/cb && . /tmp/cb/bin/activate
+          pip install -q chatterbox-tts
+          python gerar_e_selecionar.py cb
+          rm -rf /tmp/cb ~/.cache/pip
+      - name: selecao
+        working-directory: video-neymar
+        run: /tmp/ko/bin/python gerar_e_selecionar.py select
+      - name: publicar midia
+        working-directory: video-neymar/midia
+        run: |
+          git init -q -b midia-neymar && git add -A
+          git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -qm "voz neymar"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" midia-neymar

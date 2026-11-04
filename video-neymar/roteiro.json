@@ -1,0 +1,15 @@
+[
+ {"id":"n1","fala":"Sabe quantos gols o Neymar fez pela Seleção?","leg":"Sabe quantos gols o Neymar fez pela Seleção?","fim":"pergunta"},
+ {"id":"n2","fala":"Oitenta. Em cento e trinta jogos.","leg":"80 gols. Em 130 jogos.","fim":"ponto"},
+ {"id":"n3","fala":"Nas contas da Fifa, ninguém fez mais pelo Brasil.","leg":"Nas contas da Fifa, ninguém fez mais pelo Brasil.","fim":"virgula"},
+ {"id":"n4","fala":"Nem o Pelé, que fez setenta e sete.","leg":"Nem Pelé, que fez 77.","fim":"pergunta"},
+ {"id":"n5","fala":"Mas tudo começou no Santos, em dois mil e nove.","leg":"Tudo começou no Santos, em 2009.","fim":"ponto"},
+ {"id":"n6","fala":"Em dois mil e treze, foi pro Barcelona... e lá ganhou a Tchampions.","leg":"Em 2013, foi pro Barcelona... e ganhou a Champions.","fim":"ponto"},
+ {"id":"n7","fala":"Em dois mil e dezessete, o pê ésse gê pagou duzentos e vinte e dois milhões de euros.","leg":"Em 2017, o PSG pagou € 222 milhões.","fim":"virgula"},
+ {"id":"n8","fala":"Até hoje, é a contratação mais cara da história.","leg":"Até hoje, a contratação mais cara da história.","fim":"ponto"},
+ {"id":"n9","fala":"Depois, Arábia Saudita... e a volta pro Santos, em dois mil e vinte e cinco.","leg":"Depois, Al-Hilal... e a volta ao Santos, em 2025.","fim":"pergunta"},
+ {"id":"n10","fala":"E tem mais: ele fez gol em quatro Copas diferentes.","leg":"E tem mais: gol em 4 Copas diferentes.","fim":"virgula"},
+ {"id":"n11","fala":"Só ele e o Pelé, entre os brasileiros.","leg":"Só ele e Pelé, entre os brasileiros.","fim":"pergunta"},
+ {"id":"n12","fala":"Em julho de dois mil e vinte e seis, ele deu adeus à Seleção.","leg":"Em julho de 2026, ele deu adeus à Seleção.","fim":"pergunta"},
+ {"id":"n13","fala":"Qual craque a gente conta agora? Comenta aí, e segue a futebolização!","leg":"Qual craque vem agora? Comenta e segue @futebolizacao","fim":"ponto"}
+]
