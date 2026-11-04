@@ -5,6 +5,8 @@ import numpy as np, soundfile as sf
 R = json.load(open("roteiro.json"))
 os.makedirs("tomadas", exist_ok=True); os.makedirs("midia", exist_ok=True)
 ENG = sys.argv[1] if len(sys.argv) > 1 else "all"
+SEEDS = [int(x) for x in ENG.split(":")[1].split(",")] if ENG.startswith("cb:") else (11, 22, 33)
+if ENG.startswith("cb:"): ENG = "cb"
 
 def gen_kokoro():
     from kokoro import KPipeline
@@ -21,7 +23,7 @@ def gen_cb():
     from chatterbox.mtl_tts import ChatterboxMultilingualTTS
     m = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
     for r in R:
-        for s in (11, 22, 33):
+        for s in SEEDS:
             torch.manual_seed(s)
             w = m.generate(r["fala"], language_id="pt", exaggeration=0.55, cfg_weight=0.35, temperature=0.8)
             ta.save(f"tomadas/cb-padrao_{r['id']}_s{s}.wav", w, m.sr)
@@ -66,7 +68,7 @@ def maxpause(f):
 
 res = {}
 for f in sorted(os.listdir("tomadas")):
-    voz, fid, var = f[:-4].split("_", 2)
+    voz, fid, var = f[:-4].rsplit("_", 2)
     r = next(x for x in R if x["id"] == fid)
     t = f"/tmp/t_{f}"; trim(f"tomadas/{f}", t)
     y, sr = librosa.load(t, sr=16000); dur = len(y) / sr

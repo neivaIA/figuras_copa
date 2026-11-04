@@ -5,34 +5,40 @@ on:
 permissions:
   contents: write
 jobs:
-  voz:
+  gerar:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 40
+    strategy:
+      matrix:
+        eng: ["kokoro", "cb:11", "cb:22", "cb:33"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11", cache: pip }
+      - run: sudo apt-get install -y -q espeak-ng
+      - name: instalar
+        run: |
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          if [ "${{ matrix.eng }}" = "kokoro" ]; then pip install -q "kokoro>=0.9.4" soundfile; else pip install -q chatterbox-tts; fi
+      - name: gerar
+        working-directory: video-neymar
+        run: python gerar_e_selecionar.py "${{ matrix.eng }}"
+      - uses: actions/upload-artifact@v4
+        with: { name: "tomadas-${{ strategy.job-index }}", path: video-neymar/tomadas }
+  selecionar:
+    needs: gerar
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: sudo apt-get update -q && sudo apt-get install -y -q espeak-ng ffmpeg
-      - name: venv kokoro + selecao
-        run: |
-          python -m venv /tmp/ko && . /tmp/ko/bin/activate
-          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
-          pip install -q "kokoro>=0.9.4" soundfile faster-whisper librosa num2words
-      - name: kokoro
-        working-directory: video-neymar
-        run: /tmp/ko/bin/python gerar_e_selecionar.py kokoro
-      - name: chatterbox
-        continue-on-error: true
-        timeout-minutes: 45
-        working-directory: video-neymar
-        run: |
-          python -m venv /tmp/cb && . /tmp/cb/bin/activate
-          pip install -q chatterbox-tts
-          python gerar_e_selecionar.py cb
-          rm -rf /tmp/cb ~/.cache/pip
+      - run: sudo apt-get install -y -q ffmpeg
+      - run: pip install -q faster-whisper librosa num2words soundfile
+      - uses: actions/download-artifact@v4
+        with: { pattern: "tomadas-*", path: video-neymar/tomadas, merge-multiple: true }
       - name: selecao
         working-directory: video-neymar
-        run: /tmp/ko/bin/python gerar_e_selecionar.py select
+        run: python gerar_e_selecionar.py select
       - name: publicar midia
         working-directory: video-neymar/midia
         run: |
