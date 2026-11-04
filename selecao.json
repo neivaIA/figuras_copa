@@ -1,0 +1,1281 @@
+{
+ "resumo": {
+  "cb-padrao": {
+   "passam": 10,
+   "total": 13,
+   "f0_medio": 5.31,
+   "escolhidas": {
+    "n10": {
+     "arquivo": "cb-padrao_n10_s11.wav",
+     "erro": 0.0,
+     "cps": 15.13,
+     "f0_semitons": 5.18,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "e tem mais. Ele fez gol em quatro copas diferentes."
+    },
+    "n11": {
+     "arquivo": "cb-padrao_n11_s11.wav",
+     "erro": 0.0,
+     "cps": 8.07,
+     "f0_semitons": 7.02,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "só ele e o Pelé entre os brasileiros."
+    },
+    "n12": {
+     "arquivo": "cb-padrao_n12_s33.wav",
+     "erro": 0.083,
+     "cps": 11.89,
+     "f0_semitons": 3.64,
+     "pausa_max": 0.52,
+     "ok": true,
+     "transcricao": "Em junho de 2026, ele deu adeus à seleção."
+    },
+    "n13": {
+     "arquivo": "cb-padrao_n13_s11.wav",
+     "erro": 0.182,
+     "cps": 22.76,
+     "f0_semitons": 5.18,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual será que a gente conta agora? Comenta aí e segue a futebolização."
+    },
+    "n1": {
+     "arquivo": "cb-padrao_n1_s11.wav",
+     "erro": 0.0,
+     "cps": 14.28,
+     "f0_semitons": 5.9,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Sabe quantos gols o Neymar fez pela seleção?"
+    },
+    "n2": {
+     "arquivo": "cb-padrao_n2_s11.wav",
+     "erro": 0.0,
+     "cps": 16.31,
+     "f0_semitons": 3.66,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "80 em 130 jogos."
+    },
+    "n3": {
+     "arquivo": "cb-padrao_n3_s11.wav",
+     "erro": 0.0,
+     "cps": 11.17,
+     "f0_semitons": 6.41,
+     "pausa_max": 0.54,
+     "ok": true,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    },
+    "n4": {
+     "arquivo": "cb-padrao_n4_s33.wav",
+     "erro": 0.0,
+     "cps": 11.45,
+     "f0_semitons": 7.49,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "nem o Pele, que fez 77."
+    },
+    "n5": {
+     "arquivo": "cb-padrao_n5_s11.wav",
+     "erro": 0.0,
+     "cps": 21.55,
+     "f0_semitons": 5.91,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos em 2009."
+    },
+    "n6": {
+     "arquivo": "cb-padrao_n6_s11.wav",
+     "erro": 0.091,
+     "cps": 16.15,
+     "f0_semitons": 4.58,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Em 2013 foi por Barcelona e lá ganhou a Champions."
+    },
+    "n7": {
+     "arquivo": "cb-padrao_n7_s11.wav",
+     "erro": 0.0,
+     "cps": 17.24,
+     "f0_semitons": 3.76,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    },
+    "n8": {
+     "arquivo": "cb-padrao_n8_s22.wav",
+     "erro": 0.0,
+     "cps": 11.84,
+     "f0_semitons": 5.09,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    },
+    "n9": {
+     "arquivo": "cb-padrao_n9_s11.wav",
+     "erro": 0.083,
+     "cps": 16.14,
+     "f0_semitons": 5.17,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Depois, Arábia Saudita e a volta pros Santos em 2025."
+    }
+   }
+  },
+  "ko-pf_dora": {
+   "passam": 2,
+   "total": 13,
+   "f0_medio": 3.16,
+   "escolhidas": {
+    "n10": {
+     "arquivo": "ko-pf_dora_n10_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.82,
+     "f0_semitons": 3.0,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "e tem mais, ele fez gol em quatro copas diferentes."
+    },
+    "n11": {
+     "arquivo": "ko-pf_dora_n11_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.72,
+     "f0_semitons": 2.89,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Só ele e o Pelé entre os brasileiros."
+    },
+    "n12": {
+     "arquivo": "ko-pf_dora_n12_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.94,
+     "f0_semitons": 3.2,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em julho de 2026, ele deu adeus à seleção."
+    },
+    "n13": {
+     "arquivo": "ko-pf_dora_n13_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.49,
+     "f0_semitons": 2.81,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual craque a gente conta agora? Comenta aí e segue a futebolização."
+    },
+    "n1": {
+     "arquivo": "ko-pf_dora_n1_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.17,
+     "f0_semitons": 3.28,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "sabe quantos gols o Neymar fez pela seleção."
+    },
+    "n2": {
+     "arquivo": "ko-pf_dora_n2_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.18,
+     "f0_semitons": 3.38,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "80 em 130 jogos."
+    },
+    "n3": {
+     "arquivo": "ko-pf_dora_n3_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.9,
+     "f0_semitons": 3.41,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    },
+    "n4": {
+     "arquivo": "ko-pf_dora_n4_1.0.wav",
+     "erro": 0.286,
+     "cps": 18.37,
+     "f0_semitons": 3.57,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nem o Peleque fez 77."
+    },
+    "n5": {
+     "arquivo": "ko-pf_dora_n5_1.0.wav",
+     "erro": 0.0,
+     "cps": 19.15,
+     "f0_semitons": 3.15,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos em 2009."
+    },
+    "n6": {
+     "arquivo": "ko-pf_dora_n6_1.0.wav",
+     "erro": 0.182,
+     "cps": 18.65,
+     "f0_semitons": 2.91,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2013, foi para o Barcelona e lá ganhou a Champions."
+    },
+    "n7": {
+     "arquivo": "ko-pf_dora_n7_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.55,
+     "f0_semitons": 3.15,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    },
+    "n8": {
+     "arquivo": "ko-pf_dora_n8_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.29,
+     "f0_semitons": 3.6,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    },
+    "n9": {
+     "arquivo": "ko-pf_dora_n9_1.0.wav",
+     "erro": 0.167,
+     "cps": 18.72,
+     "f0_semitons": 2.79,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Depois, a Árabia saudita e a volta pros santos em 2025."
+    }
+   }
+  },
+  "ko-pm_alex": {
+   "passam": 4,
+   "total": 13,
+   "f0_medio": 3.04,
+   "escolhidas": {
+    "n10": {
+     "arquivo": "ko-pm_alex_n10_1.0.wav",
+     "erro": 0.0,
+     "cps": 16.87,
+     "f0_semitons": 3.16,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "e tem mais, ele fez gol em quatro copas diferentes."
+    },
+    "n11": {
+     "arquivo": "ko-pm_alex_n11_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.88,
+     "f0_semitons": 3.21,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Só ele e o Pelé entre os brasileiros."
+    },
+    "n12": {
+     "arquivo": "ko-pm_alex_n12_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.38,
+     "f0_semitons": 2.97,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em julho de 2026, ele deu adeus à seleção."
+    },
+    "n13": {
+     "arquivo": "ko-pm_alex_n13_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.7,
+     "f0_semitons": 3.12,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual craque a gente conta agora? Comenta aí e segue a futebolização."
+    },
+    "n1": {
+     "arquivo": "ko-pm_alex_n1_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.24,
+     "f0_semitons": 2.04,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "sabe quantos gols o Neymar fez pela seleção."
+    },
+    "n2": {
+     "arquivo": "ko-pm_alex_n2_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.16,
+     "f0_semitons": 3.05,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "80 em 130 jogos."
+    },
+    "n3": {
+     "arquivo": "ko-pm_alex_n3_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.16,
+     "f0_semitons": 3.77,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    },
+    "n4": {
+     "arquivo": "ko-pm_alex_n4_1.0.wav",
+     "erro": 0.286,
+     "cps": 18.49,
+     "f0_semitons": 2.57,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nem o Pelec fez 77."
+    },
+    "n5": {
+     "arquivo": "ko-pm_alex_n5_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.53,
+     "f0_semitons": 3.63,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos em 2009."
+    },
+    "n6": {
+     "arquivo": "ko-pm_alex_n6_1.0.wav",
+     "erro": 0.182,
+     "cps": 18.63,
+     "f0_semitons": 3.14,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2013, foi para o Barcelona e lá ganhou a Champions."
+    },
+    "n7": {
+     "arquivo": "ko-pm_alex_n7_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.09,
+     "f0_semitons": 3.21,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    },
+    "n8": {
+     "arquivo": "ko-pm_alex_n8_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.24,
+     "f0_semitons": 2.88,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    },
+    "n9": {
+     "arquivo": "ko-pm_alex_n9_1.0.wav",
+     "erro": 0.167,
+     "cps": 18.18,
+     "f0_semitons": 2.83,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Depois, a Arábia Saudita e a volta pros Santos em 2025."
+    }
+   }
+  }
+ },
+ "todas": {
+  "cb-padrao": {
+   "n10": [
+    {
+     "arquivo": "cb-padrao_n10_s11.wav",
+     "erro": 0.0,
+     "cps": 15.13,
+     "f0_semitons": 5.18,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "e tem mais. Ele fez gol em quatro copas diferentes."
+    },
+    {
+     "arquivo": "cb-padrao_n10_s22.wav",
+     "erro": 0.0,
+     "cps": 17.58,
+     "f0_semitons": 4.5,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "e tem mais? Ele fez gol em 4 copas diferentes."
+    },
+    {
+     "arquivo": "cb-padrao_n10_s33.wav",
+     "erro": 0.0,
+     "cps": 16.4,
+     "f0_semitons": 4.81,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "e tem mais, ele fez gol em quatro copas diferentes."
+    }
+   ],
+   "n11": [
+    {
+     "arquivo": "cb-padrao_n11_s11.wav",
+     "erro": 0.0,
+     "cps": 8.07,
+     "f0_semitons": 7.02,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "só ele e o Pelé entre os brasileiros."
+    },
+    {
+     "arquivo": "cb-padrao_n11_s22.wav",
+     "erro": 1.143,
+     "cps": 9.37,
+     "f0_semitons": 7.59,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Sairi-li-iu-pe-lê em 2BRAZILÊS."
+    },
+    {
+     "arquivo": "cb-padrao_n11_s33.wav",
+     "erro": 0.0,
+     "cps": 10.98,
+     "f0_semitons": 5.7,
+     "pausa_max": 0.91,
+     "ok": false,
+     "transcricao": "só ele e o Pelé entre os brasileiros."
+    }
+   ],
+   "n12": [
+    {
+     "arquivo": "cb-padrao_n12_s11.wav",
+     "erro": 0.0,
+     "cps": 12.46,
+     "f0_semitons": 3.43,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "em julho de 2026, ele deu adeus à seleção."
+    },
+    {
+     "arquivo": "cb-padrao_n12_s22.wav",
+     "erro": 0.0,
+     "cps": 20.3,
+     "f0_semitons": 3.84,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "em julho de 2026, ele deu adeus à seleção."
+    },
+    {
+     "arquivo": "cb-padrao_n12_s33.wav",
+     "erro": 0.083,
+     "cps": 11.89,
+     "f0_semitons": 3.64,
+     "pausa_max": 0.52,
+     "ok": true,
+     "transcricao": "Em junho de 2026, ele deu adeus à seleção."
+    }
+   ],
+   "n13": [
+    {
+     "arquivo": "cb-padrao_n13_s11.wav",
+     "erro": 0.182,
+     "cps": 22.76,
+     "f0_semitons": 5.18,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual será que a gente conta agora? Comenta aí e segue a futebolização."
+    },
+    {
+     "arquivo": "cb-padrao_n13_s22.wav",
+     "erro": 0.182,
+     "cps": 15.85,
+     "f0_semitons": 3.26,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual será que a gente conta agora?  Comenta aí e segue a futebolização."
+    },
+    {
+     "arquivo": "cb-padrao_n13_s33.wav",
+     "erro": 0.182,
+     "cps": 18.0,
+     "f0_semitons": 4.92,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual será que a gente conta agora? Comenta aí e segue a futebolização."
+    }
+   ],
+   "n1": [
+    {
+     "arquivo": "cb-padrao_n1_s11.wav",
+     "erro": 0.0,
+     "cps": 14.28,
+     "f0_semitons": 5.9,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Sabe quantos gols o Neymar fez pela seleção?"
+    },
+    {
+     "arquivo": "cb-padrao_n1_s22.wav",
+     "erro": 0.0,
+     "cps": 14.22,
+     "f0_semitons": 5.84,
+     "pausa_max": 0.55,
+     "ok": true,
+     "transcricao": "Sabe quantos gols o Neymar fez pela seleção?"
+    },
+    {
+     "arquivo": "cb-padrao_n1_s33.wav",
+     "erro": 0.0,
+     "cps": 10.69,
+     "f0_semitons": 4.57,
+     "pausa_max": 0.66,
+     "ok": false,
+     "transcricao": "Sabe quantos gols o Neymar fez pela seleção."
+    }
+   ],
+   "n2": [
+    {
+     "arquivo": "cb-padrao_n2_s11.wav",
+     "erro": 0.0,
+     "cps": 16.31,
+     "f0_semitons": 3.66,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "80 em 130 jogos."
+    },
+    {
+     "arquivo": "cb-padrao_n2_s22.wav",
+     "erro": 0.2,
+     "cps": 12.41,
+     "f0_semitons": 4.95,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "80 em 180 jogos."
+    },
+    {
+     "arquivo": "cb-padrao_n2_s33.wav",
+     "erro": 0.0,
+     "cps": 17.85,
+     "f0_semitons": 6.06,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "80 em 130 jogos."
+    }
+   ],
+   "n3": [
+    {
+     "arquivo": "cb-padrao_n3_s11.wav",
+     "erro": 0.0,
+     "cps": 11.17,
+     "f0_semitons": 6.41,
+     "pausa_max": 0.54,
+     "ok": true,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    },
+    {
+     "arquivo": "cb-padrao_n3_s22.wav",
+     "erro": 1.111,
+     "cps": 5.76,
+     "f0_semitons": 4.75,
+     "pausa_max": 0.96,
+     "ok": false,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil.  Esquerada para a MES.  Dois e ela a Estreff, ao Caminho."
+    },
+    {
+     "arquivo": "cb-padrao_n3_s33.wav",
+     "erro": 0.0,
+     "cps": 17.25,
+     "f0_semitons": 5.51,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    }
+   ],
+   "n4": [
+    {
+     "arquivo": "cb-padrao_n4_s11.wav",
+     "erro": 0.0,
+     "cps": 11.63,
+     "f0_semitons": 3.28,
+     "pausa_max": 0.52,
+     "ok": true,
+     "transcricao": "nem o Pele, que fez 77."
+    },
+    {
+     "arquivo": "cb-padrao_n4_s22.wav",
+     "erro": 0.0,
+     "cps": 17.15,
+     "f0_semitons": 4.78,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Nem o Pele, que fez 77."
+    },
+    {
+     "arquivo": "cb-padrao_n4_s33.wav",
+     "erro": 0.0,
+     "cps": 11.45,
+     "f0_semitons": 7.49,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "nem o Pele, que fez 77."
+    }
+   ],
+   "n5": [
+    {
+     "arquivo": "cb-padrao_n5_s11.wav",
+     "erro": 0.0,
+     "cps": 21.55,
+     "f0_semitons": 5.91,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos em 2009."
+    },
+    {
+     "arquivo": "cb-padrao_n5_s22.wav",
+     "erro": 0.333,
+     "cps": 12.55,
+     "f0_semitons": 5.89,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou nos santos em 2009, e no f..."
+    },
+    {
+     "arquivo": "cb-padrao_n5_s33.wav",
+     "erro": 0.444,
+     "cps": 12.45,
+     "f0_semitons": 6.09,
+     "pausa_max": 0.57,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos, em inglês e em inoves.  É inoves."
+    }
+   ],
+   "n6": [
+    {
+     "arquivo": "cb-padrao_n6_s11.wav",
+     "erro": 0.091,
+     "cps": 16.15,
+     "f0_semitons": 4.58,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Em 2013 foi por Barcelona e lá ganhou a Champions."
+    },
+    {
+     "arquivo": "cb-padrao_n6_s22.wav",
+     "erro": 0.0,
+     "cps": 20.0,
+     "f0_semitons": 4.54,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2013 foi pro Barcelona, e lá ganhou a Champions."
+    },
+    {
+     "arquivo": "cb-padrao_n6_s33.wav",
+     "erro": 0.0,
+     "cps": 19.78,
+     "f0_semitons": 4.43,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2013 foi pro Barcelona e lá ganhou a Champions."
+    }
+   ],
+   "n7": [
+    {
+     "arquivo": "cb-padrao_n7_s11.wav",
+     "erro": 0.0,
+     "cps": 17.24,
+     "f0_semitons": 3.76,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    },
+    {
+     "arquivo": "cb-padrao_n7_s22.wav",
+     "erro": 0.0,
+     "cps": 19.43,
+     "f0_semitons": 3.42,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    },
+    {
+     "arquivo": "cb-padrao_n7_s33.wav",
+     "erro": 0.0,
+     "cps": 16.14,
+     "f0_semitons": 3.92,
+     "pausa_max": 0.68,
+     "ok": false,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    }
+   ],
+   "n8": [
+    {
+     "arquivo": "cb-padrao_n8_s11.wav",
+     "erro": 0.0,
+     "cps": 20.54,
+     "f0_semitons": 4.16,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    },
+    {
+     "arquivo": "cb-padrao_n8_s22.wav",
+     "erro": 0.0,
+     "cps": 11.84,
+     "f0_semitons": 5.09,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    },
+    {
+     "arquivo": "cb-padrao_n8_s33.wav",
+     "erro": 0.0,
+     "cps": 12.15,
+     "f0_semitons": 3.04,
+     "pausa_max": 1.13,
+     "ok": false,
+     "transcricao": "Até hoje, é a contratação mais cara da história."
+    }
+   ],
+   "n9": [
+    {
+     "arquivo": "cb-padrao_n9_s11.wav",
+     "erro": 0.083,
+     "cps": 16.14,
+     "f0_semitons": 5.17,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Depois, Arábia Saudita e a volta pros Santos em 2025."
+    },
+    {
+     "arquivo": "cb-padrao_n9_s22.wav",
+     "erro": 0.25,
+     "cps": 14.95,
+     "f0_semitons": 5.08,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Depois, a Arábia Saudita e a Volta pros Santos em 2025.  E senca?"
+    },
+    {
+     "arquivo": "cb-padrao_n9_s33.wav",
+     "erro": 0.417,
+     "cps": 13.85,
+     "f0_semitons": 4.89,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Depois, Arábia Saudita, e a volta pros Santos em 2025.  A pai e a fos..."
+    }
+   ]
+  },
+  "ko-pf_dora": {
+   "n10": [
+    {
+     "arquivo": "ko-pf_dora_n10_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.82,
+     "f0_semitons": 3.0,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "e tem mais, ele fez gol em quatro copas diferentes."
+    },
+    {
+     "arquivo": "ko-pf_dora_n10_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.89,
+     "f0_semitons": 2.83,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "e tem mais, ele fez gol em quatro copas diferentes."
+    }
+   ],
+   "n11": [
+    {
+     "arquivo": "ko-pf_dora_n11_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.72,
+     "f0_semitons": 2.89,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Só ele e o Pelé entre os brasileiros."
+    },
+    {
+     "arquivo": "ko-pf_dora_n11_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.72,
+     "f0_semitons": 3.09,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "só ele e o Pelé entre os brasileiros."
+    }
+   ],
+   "n12": [
+    {
+     "arquivo": "ko-pf_dora_n12_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.94,
+     "f0_semitons": 3.2,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em julho de 2026, ele deu adeus à seleção."
+    },
+    {
+     "arquivo": "ko-pf_dora_n12_1.05.wav",
+     "erro": 0.0,
+     "cps": 19.24,
+     "f0_semitons": 3.14,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em julho de 2026, ele deu adeus à seleção."
+    }
+   ],
+   "n13": [
+    {
+     "arquivo": "ko-pf_dora_n13_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.49,
+     "f0_semitons": 2.81,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual craque a gente conta agora? Comenta aí e segue a futebolização."
+    },
+    {
+     "arquivo": "ko-pf_dora_n13_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.62,
+     "f0_semitons": 2.78,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual craque a gente conta agora? Comenta aí e segue a futebolização."
+    }
+   ],
+   "n1": [
+    {
+     "arquivo": "ko-pf_dora_n1_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.17,
+     "f0_semitons": 3.28,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "sabe quantos gols o Neymar fez pela seleção."
+    },
+    {
+     "arquivo": "ko-pf_dora_n1_1.05.wav",
+     "erro": 0.0,
+     "cps": 17.69,
+     "f0_semitons": 3.61,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "sabe quantos gols o Neymar fez pela seleção."
+    }
+   ],
+   "n2": [
+    {
+     "arquivo": "ko-pf_dora_n2_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.18,
+     "f0_semitons": 3.38,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "80 em 130 jogos."
+    },
+    {
+     "arquivo": "ko-pf_dora_n2_1.05.wav",
+     "erro": 0.0,
+     "cps": 17.65,
+     "f0_semitons": 3.44,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "80 em 130 jogos."
+    }
+   ],
+   "n3": [
+    {
+     "arquivo": "ko-pf_dora_n3_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.9,
+     "f0_semitons": 3.41,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    },
+    {
+     "arquivo": "ko-pf_dora_n3_1.05.wav",
+     "erro": 0.0,
+     "cps": 17.89,
+     "f0_semitons": 3.4,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    }
+   ],
+   "n4": [
+    {
+     "arquivo": "ko-pf_dora_n4_1.0.wav",
+     "erro": 0.286,
+     "cps": 18.37,
+     "f0_semitons": 3.57,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nem o Peleque fez 77."
+    },
+    {
+     "arquivo": "ko-pf_dora_n4_1.05.wav",
+     "erro": 0.286,
+     "cps": 18.52,
+     "f0_semitons": 3.66,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nem o Pelec fez 77."
+    }
+   ],
+   "n5": [
+    {
+     "arquivo": "ko-pf_dora_n5_1.0.wav",
+     "erro": 0.0,
+     "cps": 19.15,
+     "f0_semitons": 3.15,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos em 2009."
+    },
+    {
+     "arquivo": "ko-pf_dora_n5_1.05.wav",
+     "erro": 0.0,
+     "cps": 19.96,
+     "f0_semitons": 2.79,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos em 2009."
+    }
+   ],
+   "n6": [
+    {
+     "arquivo": "ko-pf_dora_n6_1.0.wav",
+     "erro": 0.182,
+     "cps": 18.65,
+     "f0_semitons": 2.91,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2013, foi para o Barcelona e lá ganhou a Champions."
+    },
+    {
+     "arquivo": "ko-pf_dora_n6_1.05.wav",
+     "erro": 0.182,
+     "cps": 19.52,
+     "f0_semitons": 2.41,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2013, foi para o Barcelona e lá ganhou a Champions."
+    }
+   ],
+   "n7": [
+    {
+     "arquivo": "ko-pf_dora_n7_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.55,
+     "f0_semitons": 3.15,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    },
+    {
+     "arquivo": "ko-pf_dora_n7_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.96,
+     "f0_semitons": 3.23,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    }
+   ],
+   "n8": [
+    {
+     "arquivo": "ko-pf_dora_n8_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.29,
+     "f0_semitons": 3.6,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    },
+    {
+     "arquivo": "ko-pf_dora_n8_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.67,
+     "f0_semitons": 2.88,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    }
+   ],
+   "n9": [
+    {
+     "arquivo": "ko-pf_dora_n9_1.0.wav",
+     "erro": 0.167,
+     "cps": 18.72,
+     "f0_semitons": 2.79,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Depois, a Árabia saudita e a volta pros santos em 2025."
+    },
+    {
+     "arquivo": "ko-pf_dora_n9_1.05.wav",
+     "erro": 0.167,
+     "cps": 18.95,
+     "f0_semitons": 3.06,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Depois, a Arábia Saudita e a volta pros Santos em 2025."
+    }
+   ]
+  },
+  "ko-pm_alex": {
+   "n10": [
+    {
+     "arquivo": "ko-pm_alex_n10_1.0.wav",
+     "erro": 0.0,
+     "cps": 16.87,
+     "f0_semitons": 3.16,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "e tem mais, ele fez gol em quatro copas diferentes."
+    },
+    {
+     "arquivo": "ko-pm_alex_n10_1.05.wav",
+     "erro": 0.0,
+     "cps": 17.47,
+     "f0_semitons": 3.15,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "e tem mais, ele fez gol em quatro copas diferentes."
+    }
+   ],
+   "n11": [
+    {
+     "arquivo": "ko-pm_alex_n11_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.88,
+     "f0_semitons": 3.21,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Só ele e o Pelé entre os brasileiros."
+    },
+    {
+     "arquivo": "ko-pm_alex_n11_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.15,
+     "f0_semitons": 3.11,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "só ele e o Pelé entre os brasileiros."
+    }
+   ],
+   "n12": [
+    {
+     "arquivo": "ko-pm_alex_n12_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.38,
+     "f0_semitons": 2.97,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em julho de 2026, ele deu adeus à seleção."
+    },
+    {
+     "arquivo": "ko-pm_alex_n12_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.93,
+     "f0_semitons": 2.98,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em julho de 2026, ele deu adeus à seleção."
+    }
+   ],
+   "n13": [
+    {
+     "arquivo": "ko-pm_alex_n13_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.7,
+     "f0_semitons": 3.12,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual craque a gente conta agora? Comenta aí e segue a futebolização."
+    },
+    {
+     "arquivo": "ko-pm_alex_n13_1.05.wav",
+     "erro": 0.0,
+     "cps": 19.13,
+     "f0_semitons": 2.43,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Qual craque a gente conta agora? Comenta aí e segue a futebolização."
+    }
+   ],
+   "n1": [
+    {
+     "arquivo": "ko-pm_alex_n1_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.24,
+     "f0_semitons": 2.04,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "sabe quantos gols o Neymar fez pela seleção."
+    },
+    {
+     "arquivo": "ko-pm_alex_n1_1.05.wav",
+     "erro": 0.0,
+     "cps": 17.75,
+     "f0_semitons": 2.96,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "sabe quantos gols o Neymar fez pela seleção."
+    }
+   ],
+   "n2": [
+    {
+     "arquivo": "ko-pm_alex_n2_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.16,
+     "f0_semitons": 3.05,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "80 em 130 jogos."
+    },
+    {
+     "arquivo": "ko-pm_alex_n2_1.05.wav",
+     "erro": 0.0,
+     "cps": 17.87,
+     "f0_semitons": 2.67,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "80 em 130 jogos."
+    }
+   ],
+   "n3": [
+    {
+     "arquivo": "ko-pm_alex_n3_1.0.wav",
+     "erro": 0.0,
+     "cps": 17.16,
+     "f0_semitons": 3.77,
+     "pausa_max": 0,
+     "ok": true,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    },
+    {
+     "arquivo": "ko-pm_alex_n3_1.05.wav",
+     "erro": 0.0,
+     "cps": 17.62,
+     "f0_semitons": 3.85,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nas contas da FIFA, ninguém fez mais pelo Brasil."
+    }
+   ],
+   "n4": [
+    {
+     "arquivo": "ko-pm_alex_n4_1.0.wav",
+     "erro": 0.286,
+     "cps": 18.49,
+     "f0_semitons": 2.57,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nem o Pelec fez 77."
+    },
+    {
+     "arquivo": "ko-pm_alex_n4_1.05.wav",
+     "erro": 0.286,
+     "cps": 18.69,
+     "f0_semitons": 4.04,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Nem o Pelec fez 77."
+    }
+   ],
+   "n5": [
+    {
+     "arquivo": "ko-pm_alex_n5_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.53,
+     "f0_semitons": 3.63,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos em 2009."
+    },
+    {
+     "arquivo": "ko-pm_alex_n5_1.05.wav",
+     "erro": 0.0,
+     "cps": 19.59,
+     "f0_semitons": 3.44,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Mas tudo começou no Santos em 2009."
+    }
+   ],
+   "n6": [
+    {
+     "arquivo": "ko-pm_alex_n6_1.0.wav",
+     "erro": 0.182,
+     "cps": 18.63,
+     "f0_semitons": 3.14,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2013, foi para o Barcelona e lá ganhou a Champions."
+    },
+    {
+     "arquivo": "ko-pm_alex_n6_1.05.wav",
+     "erro": 0.182,
+     "cps": 19.16,
+     "f0_semitons": 3.23,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2013, foi para o Barcelona e lá ganhou a Champions."
+    }
+   ],
+   "n7": [
+    {
+     "arquivo": "ko-pm_alex_n7_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.09,
+     "f0_semitons": 3.21,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    },
+    {
+     "arquivo": "ko-pm_alex_n7_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.83,
+     "f0_semitons": 3.25,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Em 2017, o PSG pagou 222 milhões de euros."
+    }
+   ],
+   "n8": [
+    {
+     "arquivo": "ko-pm_alex_n8_1.0.wav",
+     "erro": 0.0,
+     "cps": 18.24,
+     "f0_semitons": 2.88,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    },
+    {
+     "arquivo": "ko-pm_alex_n8_1.05.wav",
+     "erro": 0.0,
+     "cps": 18.6,
+     "f0_semitons": 2.77,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Até hoje é a contratação mais cara da história."
+    }
+   ],
+   "n9": [
+    {
+     "arquivo": "ko-pm_alex_n9_1.0.wav",
+     "erro": 0.167,
+     "cps": 18.18,
+     "f0_semitons": 2.83,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "Depois, a Arábia Saudita e a volta pros Santos em 2025."
+    },
+    {
+     "arquivo": "ko-pm_alex_n9_1.05.wav",
+     "erro": 0.25,
+     "cps": 18.73,
+     "f0_semitons": 2.7,
+     "pausa_max": 0,
+     "ok": false,
+     "transcricao": "depois a Arábia Saudita e a volta para o Santos em 2025."
+    }
+   ]
+  }
+ }
+}
