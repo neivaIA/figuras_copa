@@ -1,0 +1,15 @@
+[
+ {"id":"n1","fala":"Sabe quantos gols o Neymar já fez na carreira?","leg":"Sabe quantos gols o Neymar já fez na carreira?","fim":"pergunta"},
+ {"id":"n2","fala":"Mais de quatrocentos e cinquenta. Bora contar camisa por camisa.","leg":"Mais de 450. Bora contar camisa por camisa.","fim":"pergunta"},
+ {"id":"n3","fala":"No Santos, foram mais de cento e cinquenta, em duas passagens.","leg":"Santos: mais de 150 gols, em duas passagens.","fim":"ponto"},
+ {"id":"n4","fala":"No Barcelona, cento e cinco gols... e a Tchampions de dois mil e quinze.","leg":"Barcelona: 105 gols... e a Champions de 2015.","fim":"pergunta"},
+ {"id":"n5","fala":"Aí o pê ésse gê pagou duzentos e vinte e dois milhões de euros por ele.","leg":"Aí o PSG pagou € 222 milhões por ele.","fim":"virgula"},
+ {"id":"n6","fala":"Até hoje, é a contratação mais cara da história.","leg":"Até hoje, a contratação mais cara da história.","fim":"ponto"},
+ {"id":"n7","fala":"Em Paris, foram cento e dezoito gols, e cinco títulos franceses.","leg":"PSG: 118 gols e 5 Campeonatos Franceses.","fim":"ponto"},
+ {"id":"n8","fala":"No Al-Hilal, quase não jogou: um gol, em sete jogos.","leg":"Al-Hilal: 1 gol em 7 jogos.","fim":"pergunta"},
+ {"id":"n9","fala":"E pela Seleção? Oitenta gols. Ninguém fez mais, nas contas da Fifa.","leg":"Seleção: 80 gols. Ninguém fez mais, nas contas da Fifa.","fim":"virgula"},
+ {"id":"n10","fala":"Nem o Pelé, que tem setenta e sete.","leg":"Nem Pelé, que tem 77.","fim":"pergunta"},
+ {"id":"n11","fala":"Nos títulos, tem Libertadores, Tchampions, Mundial de Clubes...","leg":"Títulos: Libertadores, Champions, Mundial de Clubes...","fim":"virgula"},
+ {"id":"n12","fala":"e o ouro olímpico de dois mil e dezesseis. Só faltou a Copa do Mundo.","leg":"...e o ouro olímpico de 2016. Só faltou a Copa do Mundo.","fim":"pergunta"},
+ {"id":"n13","fala":"Comenta aí qual é o próximo craque, e segue a futebolização!","leg":"Comenta o próximo craque e segue @futebolizacao","fim":"ponto"}
+]
