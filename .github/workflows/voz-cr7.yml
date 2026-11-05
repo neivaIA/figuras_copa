@@ -1,0 +1,19 @@
+name: voz-cr7 (temporario)
+on: { push: { branches: [voz-cr7] } }
+permissions: { contents: write }
+jobs:
+  voz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: sudo apt-get install -y -q ffmpeg && pip install -q edge-tts
+      - working-directory: video
+        run: python voz/edge.py
+      - working-directory: video/tomadas
+        run: |
+          git init -q -b midia-cr7 && git add -A
+          git -c user.name=bot -c user.email=bot@users.noreply.github.com commit -qm voz
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" midia-cr7

@@ -1,0 +1,15 @@
+[
+ {"id":"n1","fala":"Cristiano Ronaldo se despediu hoje da seleção de Portugal.","leg":"Cristiano Ronaldo se despediu hoje da seleção de Portugal.","fim":"ponto"},
+ {"id":"n2","fala":"E ele sai com 985 gols na carreira. Bora contar camisa por camisa?","leg":"E ele sai com 985 gols na carreira. Bora contar camisa por camisa?","fim":"pergunta"},
+ {"id":"n3","fala":"Começou no Sporting, com 5 gols, aos 17 anos.","leg":"Começou no Sporting, com 5 gols, aos 17 anos.","fim":"ponto"},
+ {"id":"n4","fala":"No Manchester United, foram 145 gols, em duas passagens... e a primeira Champions.","leg":"No Manchester United, foram 145 gols, em duas passagens... e a primeira Champions.","fim":"pergunta"},
+ {"id":"n5","fala":"No Real Madrid, a explosão: 450 gols, em 438 jogos. Mais gols do que jogos!","leg":"No Real Madrid, a explosão: 450 gols em 438 jogos. Mais gols do que jogos!","fim":"ponto"},
+ {"id":"n6","fala":"Lá vieram mais 4 Champions, e 4 Bolas de Ouro.","leg":"Lá vieram mais 4 Champions e 4 Bolas de Ouro.","fim":"ponto"},
+ {"id":"n7","fala":"Na Juventus, 101 gols. E no Al-Nassr, já são 138.","leg":"Na Juventus, 101 gols. E no Al-Nassr, já são 138.","fim":"ponto"},
+ {"id":"n8","fala":"Ele é o único jogador com mais de 100 gols por 4 clubes diferentes.","leg":"Ele é o único jogador com mais de 100 gols por 4 clubes diferentes.","fim":"pergunta"},
+ {"id":"n9","fala":"E por Portugal? 146 gols, em 234 jogos.","leg":"E por Portugal? 146 gols em 234 jogos.","fim":"virgula"},
+ {"id":"n10","fala":"Ninguém marcou tanto por uma seleção, no futebol masculino.","leg":"Ninguém marcou tanto por uma seleção no futebol masculino.","fim":"ponto"},
+ {"id":"n11","fala":"Com a camisa 7, ganhou a Euro de 2016, e duas Ligas das Nações.","leg":"Com a camisa 7, ganhou a Euro de 2016 e duas Ligas das Nações.","fim":"pergunta"},
+ {"id":"n12","fala":"Agora, faltam só 15 gols pros mil. Será que ele chega?","leg":"Agora, faltam só 15 gols pros mil. Será que ele chega?","fim":"pergunta"},
+ {"id":"n13","fala":"Comenta aí quem é o próximo craque, e segue a futebolização!","leg":"Comenta o próximo craque e segue @futebolizacao","fim":"ponto"}
+]
